@@ -1,0 +1,7 @@
+1. Run the main.m file in the folder "MATLAB Code"
+2. Enter the Initial Coordinates in the format "[x1,y1,z1]
+3. Enter the Next Coordinates in the format "[x2,y2,z2]
+4. The Trajectory will be generated and animation will be shown
+5. The joint variables trajectory, velocity and acceleration graphs will be shown.
+6. Furthur trajectory points can be entered if needed. 
+7. Press "Ctrl+C" to terminate the program.
